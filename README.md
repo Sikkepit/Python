@@ -12,3 +12,5 @@ Rewrote all three functions and now the program has the ability to parse JSON as
 - Fetching a quote by a certain author
 - Fetching a quote from a certain category
 - Possibly adding a GUI
+
+If you'd like to try out or work with my code, be sure to install openpyxl.
