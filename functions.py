@@ -37,7 +37,7 @@ def get_unique_attributes_of_json(dataset, attribute):
     return attributes
 
 
-# FUNCTIONS FOR WORKING WITH EXCEL FILESpipenv she
+# FUNCTIONS FOR WORKING WITH EXCEL FILES
 
 def read_excel(file):
     wb = openpyxl.load_workbook(file)
